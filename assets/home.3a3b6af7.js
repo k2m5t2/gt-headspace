@@ -1,1 +1,0 @@
-import{_ as a,h as c,o as s,c as r,m as e,i as n,q as _}from"./index.07edad2f.js";const m={},i={class:"px-4 py-10 text-center text-gray-700 dark:text-gray-200"},p=n("div",{class:"mt-5 mx-auto text-center opacity-25 text-sm"}," [Home Layout] ",-1);function x(d,f){const t=c("router-view"),o=_;return s(),r("main",i,[e(t),e(o),p])}var u=a(m,[["render",x]]);export{u as default};
