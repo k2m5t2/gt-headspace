@@ -4,10 +4,10 @@ title: GT Headspace
 
 # **Headspace**
 
-Headspace is a guided meditation app with over 65 million users. **Georgia Tech offers full access to Headspace for its students.** The sign-up link is quite hard to find, though. [Here](https://work.headspace.com/usggeorgiatech/member-enroll) is the link.
+Headspace is a guided meditation app. **Georgia Tech offers full access to Headspace for all students,** but the sign-up link is notoriously difficult to find. So, [here](https://work.headspace.com/usggeorgiatech/member-enroll) it is!
 
 [![image](/hs_banner.png)](https://work.headspace.com/usggeorgiatech/member-enroll)
-<figcaption align = "center"><b>Or just click the image</b></figcaption>
+<figcaption align = "center"><b>or just click the image</b></figcaption>
 
 
 # **Info**
